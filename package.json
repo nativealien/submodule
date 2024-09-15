@@ -1,0 +1,12 @@
+{
+  "name": "submodule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nativealien/submodule.git",
+  "author": "nativealien <oskar@assarsson.nu>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^8.1.8",
+    "typescript": "^5.6.2"
+  }
+}
